@@ -10,7 +10,7 @@ coverage](https://codecov.io/gh/Nico0825/rPackageTutorial/branch/main/graph/badg
 [![R-CMD-check](https://github.com/Nico0825/rPackageTutorial/workflows/R-CMD-check/badge.svg)](https://github.com/Nico0825/rPackageTutorial/actions)
 <!-- badges: end -->
 
-The goal of rPackageTutorial is to …
+The goal of rPackageTutorial is to achieve sum function.
 
 ## Installation
 
