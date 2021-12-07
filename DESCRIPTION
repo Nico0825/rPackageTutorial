@@ -1,14 +1,17 @@
 Package: rPackageTutorial
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Create R Package In A Professional Way Tutorial
+Version: 0.1.0
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person(given = "Zhixiang",
+           family = "Dai",
+           role = c("aut", "cre"),
+           email = "dzx08250401@gmail.com")
+Description: Show an example of how to create a r package in a professional way.
+License: MIT + file LICENSE
 Encoding: UTF-8
+LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Suggests: 
-    renv
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
