@@ -5,6 +5,9 @@
 
 <!-- badges: start -->
 
+[![Codecov test
+coverage](https://codecov.io/gh/Nico0825/rPackageTutorial/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Nico0825/rPackageTutorial?branch=main)
+[![R-CMD-check](https://github.com/Nico0825/rPackageTutorial/workflows/R-CMD-check/badge.svg)](https://github.com/Nico0825/rPackageTutorial/actions)
 <!-- badges: end -->
 
 The goal of rPackageTutorial is to …

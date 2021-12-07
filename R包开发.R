@@ -84,3 +84,5 @@ test_that("add() function return the sum of two number", {
 usethis::use_mit_license()
 # 升级版本号
 usethis::use_version()
+# 轻量版检查
+devtools::check()
